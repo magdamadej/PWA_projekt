@@ -1,0 +1,18 @@
+{
+    "theme_color" : "#0d6e18",
+    "background_color" : "#0d6e18",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/PWA_projekt/",
+    "name" : "Przewodnik po Ameryce Południowej",
+    "short_name" : "guideAPP",
+    "description" : "Zaawansowane technologie internetowe - projekt PWA",
+    "orientation" : "portrait",
+    "icons" : [
+        {
+            "src" : "./img/icon.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+    }
